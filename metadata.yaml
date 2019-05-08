@@ -1,11 +1,16 @@
 _repo: USDA-Farmers-Bulletin-No-1346-Carpet-Beetles-and-Their-Control_59378
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59378-h/images/cover.jpg
 creator:
   author:
     agent_name: Back, E. A.
     gutenberg_agent_id: '50426'
     url: http://www.gutenberg.org/2009/agents/50426
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59378#USDA-Farmers-Bulletin-No-1346-Carpet-Beetles-and-Their-Control
 gutenberg_issued: '2019-04-28'
 gutenberg_type: Text
 identifiers:
